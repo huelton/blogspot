@@ -1,5 +1,3 @@
-# Blogstrap ![Tests](https://github.com/peimelo/blogstrap/actions/workflows/ruby.yml/badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/6f77f0326f9a1e63038d/maintainability)](https://codeclimate.com/github/peimelo/blogstrap/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6f77f0326f9a1e63038d/test_coverage)](https://codeclimate.com/github/peimelo/blogstrap/test_coverage)
-
 Building a blog using Bootstrap 5 with Ruby on Rails 6 in MVC pattern.
 
 This repository is part of the [Curso Ruby on Rails 6 MVC](https://www.youtube.com/watch?v=rCwMlbpC7dU) on YouTube.
@@ -29,7 +27,7 @@ This repository is part of the [Curso Ruby on Rails 6 MVC](https://www.youtube.c
 
 ```bash
 # clone the project
-git clone https://github.com/peimelo/blogstrap.git
+git clone https://github.com/huelton/blogspot.git
 
 # enter the cloned directory
 cd blogstrap
